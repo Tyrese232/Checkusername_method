@@ -16,6 +16,7 @@ public class CheckUsernameMethod {
             
         }
     }
+    //end of the method
     public static void main(String[] args) {
         // TODO code application logic here
         
